@@ -1,0 +1,17 @@
+#bg1
+	{
+		background-color: black;
+		margin: 0px;
+		padding: 2px 6px 212px 5px;
+	}    
+#bgf
+	{
+		color: white;
+		margin-left: 220px;
+		margin-top: 200px;
+		font-size: 100px;
+	}
+#bg2
+   {background-color: white; 
+   	color: black;
+   }
